@@ -1,7 +1,5 @@
 # Privacy Policy — CatDoku: Find Cat
 
-DRAFT — verify account-side settings and publish at the app's public privacy URL before using this policy in App Store Connect.
-
 CatDoku: Find Cat is a puzzle game by Somia Elkhoussi. The app does not require an account. It uses Google AdMob for advertisements and Google Analytics for Firebase to understand gameplay and app usage.
 
 ## Data handled by the app and its providers
